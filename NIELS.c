@@ -9,7 +9,7 @@
 
 int main()
 {
-    my_putstr("NIELS");
+    my_putstr("me and NIELS");
     return 0;
 }
 
