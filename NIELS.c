@@ -5,11 +5,8 @@
 ** NIELS.c
 */
 
-
-
-int main()
+int main(void)
 {
     my_putstr("he loves us fr");
     return 0;
 }
-
